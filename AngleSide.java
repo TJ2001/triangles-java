@@ -22,14 +22,5 @@ public class AngleSide {
       System.out.println("You have a scalene triangle.");
     }
 
-    // for (Triangle inputTriangle){
-    //   if (angle1 == angle2 && angle1 == angle3){
-    //     System.out.println("You have an equilateral triangle.");
-    //   }else if (angle1 == angle2 || angle2 == angle3 || angle3 == angle1) {
-    //     System.out.println("You have an isosceles triangle.");
-    //   } else if (angle1 !== angle2 && angle2 !== angle3 && angle1 !== angle3) {
-    //     Sytem.out.println("You have a scalene triangle.");
-    //   }
-    // } System.out.println("Please enter integer for the side length.");
   }
 }
